@@ -1,0 +1,21 @@
+Rice Type Detection/
+│
+├── app.py
+├── rice.h5
+├── rice-classification-1.ipynb
+├── Rice Type Classification.docx
+│
+├── Data/
+│   └── [training and validation images]
+│
+├── forms/
+│   └── _init_.py (optional)
+│
+├── static/
+│   └── css, js, images (optional)
+│
+├── templates/
+│   ├── index.html
+│   ├── details.html
+│   └── results.html
+└──
